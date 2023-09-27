@@ -28,7 +28,7 @@ function Postavy() {
 
 	return (
 		<>
-			<h2>Postavy</h2>
+			<h2>Postavy ze Star Wars</h2>
 			{ nacitani
 				? <p>Načítám data...</p>
 				: <p>Už máme načteno</p>
