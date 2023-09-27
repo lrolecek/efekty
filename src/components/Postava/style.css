@@ -1,0 +1,10 @@
+.postava {
+	border: 1px solid dodgerblue;
+	border-radius: 4px;
+	background-color: white;
+	box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+	padding: 0.5em 1em;
+	margin-bottom: 0.5em;
+	text-align: left;
+}
+
